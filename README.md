@@ -10,7 +10,7 @@ There are a list of other "reasons why" you should use Svelte, but thats left as
 
 ## 💃 Try it out
 
-[Convert HTML to Svelte Instantly ⚡️](https://drbh.github.io/html2svelte/)
+[Convert HTML to Svelte Instantly ⚡️]([https://htmltosvelte.vercel.app/))
 
 
 ## 💥 TLDR;
